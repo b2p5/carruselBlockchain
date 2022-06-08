@@ -55,8 +55,8 @@ var resLastBlock        = '';
 
 
 function preload() {
-  imgMundo  = loadImage('https://b2p5.github.io/bola-del-mundo-min.png');
-  imgCielo  = loadImage('https://b2p5.github.io/imagenCielo-min.jpg');
+  imgMundo  = loadImage('https://b2p5.github.io/carruselBlockchain/bola-del-mundo-min.png');
+  imgCielo  = loadImage('https://b2p5.github.io/carruselBlockchain/imagenCielo-min.jpg');
   // newFont   = loadFont ('https://fonts.googleapis.com/css?family=Inconsolata');
 }//fin preload
 
